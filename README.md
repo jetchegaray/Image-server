@@ -4,9 +4,6 @@ It's AWS Lambda, which is a compute service that lets you run code without provi
 > _[Read more about AWS Lambda.](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html)_
 
 
-## Demo
-https://sagidm.github.io/smartuploader/examples/4.s3-resizer.html
-
 
 ## What this lambda provides
 Let's say we have some _shared image_ in **S3**, for example:  
