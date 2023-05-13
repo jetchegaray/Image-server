@@ -164,5 +164,4 @@ or
 ## How to use HTTPS
 The Amazon S3 website endpoints do not support HTTPS  
 https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html  
-As a workaround, you have to use your own domain.  
-Please check out https://github.com/sagidM/s3-resizer/issues/7  
+
